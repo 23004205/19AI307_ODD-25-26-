@@ -12,6 +12,7 @@ If the floor number is divisible by 5 only, it says "Blessings!".
 Otherwise, it announces the floor number - print - "Floor {number}" .
 
 Write a Java program to simulate this elevator logic for a given floor number.
+
 <img width="222" height="137" alt="image" src="https://github.com/user-attachments/assets/bb41ddc8-6886-49e0-95a1-de1979d6c163" />
 
 
@@ -81,4 +82,5 @@ public class MagicalElevator {
 
 ## RESULT:
 The program correctly prints “Skipped,” “Beware!,” “Blessings!,” or “Floor {number}” according to the elevator's magical rules.
+
 
