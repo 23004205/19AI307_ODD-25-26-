@@ -2,6 +2,7 @@
 
 ## QUESTION:
 Write a Java Program to Find the Average of Array Elements.
+
 <img width="464" height="266" alt="image" src="https://github.com/user-attachments/assets/f581508f-da33-4d60-835b-63d39aca3e32" />
 
 
@@ -69,4 +70,5 @@ public class AverageArray {
 
 ## RESULT:
 The program successfully computes and displays the average value of all the array elements entered by the user.
+
 
