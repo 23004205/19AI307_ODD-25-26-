@@ -18,7 +18,7 @@ Write a program that reads two integers and divides the first by the second. Han
 
 5. If division succeeds, display the result.
 
-6.If an ArithmeticException occurs (such as division by zero), move to the catch       block.
+6. If an ArithmeticException occurs (such as division by zero), move to the catch       block.
 
 7. In the catch block, print "Error: Division by zero".
 
@@ -65,4 +65,5 @@ public class Main{
 
 
 ## RESULT:
+
 
