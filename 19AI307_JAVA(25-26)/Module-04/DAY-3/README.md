@@ -43,7 +43,7 @@ To demonstrate composition in Java by creating Book objects that exist only with
  ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: SINGAMALA VENKATA SAI KUMAR REDY
+Developed by: SINGAMALA VENKATA SAI KUMAR REDDY
 RegisterNumber: 212223230208
 */
 ```
@@ -120,4 +120,5 @@ class Library {
 
 ## RESULT:
 Each Book is instantiated and managed inside the Library, showing a strong lifecycle dependency.
+
 
