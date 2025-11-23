@@ -5,6 +5,7 @@ Write a program that reads two integers and divides the first by the second. Han
 
 
 ## AIM:
+To write a program that reads two integers and divides the first by the second, handling division-by-zero safely.
 
 
 ## ALGORITHM :
@@ -30,8 +31,8 @@ Write a program that reads two integers and divides the first by the second. Han
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: 
-RegisterNumber:  
+Developed by: SINGAMALA VENKATA SAI KUMAR REDDY
+RegisterNumber:  212223230208
 */
 ```
 
@@ -66,4 +67,5 @@ public class Main{
 
 ## RESULT:
 
+The program outputs the quotient when possible, otherwise displays an error message for division by zero.
 
